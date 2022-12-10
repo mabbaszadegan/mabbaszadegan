@@ -43,10 +43,10 @@
 <h4 align="center">📝 Top Repositories</h4>
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mabbaszadegan/Backgammon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabbaszadegan&repo=Backgammon&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/mabbaszadegan/Architectures-Onion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabbaszadegan&repo=Architectures-Onion&theme=buefy" />
 </a>
 
