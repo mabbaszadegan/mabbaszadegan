@@ -36,7 +36,7 @@
 <h4 align="center">📊 My Statistics</h4>
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabbaszadegan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohammad's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabbaszadegan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mabbaszadegan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohammad's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mabbaszadegan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <hr />
@@ -44,10 +44,10 @@
 <br />
 
 <a href="https://github.com/mabbaszadegan/Backgammon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabbaszadegan&repo=Backgammon&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mabbaszadegan&repo=Backgammon&theme=buefy" />
 </a>
 <a href="https://github.com/mabbaszadegan/Architectures-Onion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabbaszadegan&repo=Architectures-Onion&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mabbaszadegan&repo=Architectures-Onion&theme=buefy" />
 </a>
 
 <br />
